@@ -28,7 +28,7 @@ allMusic.forEach((song, index) => {
         <p>${song.Artist}</p>
     </div>
    
-    <div  class="row-decuration"> <img src="/image/AH (86).png" alt=""></div>
+    <div  class="row-decuration"> <img src="./image/AH (86).png" alt=""></div>
    </li>
     `;
   ultag.insertAdjacentHTML("beforeend", htlms);
@@ -38,7 +38,6 @@ allMusic.forEach((song, index) => {
     const litag = document.querySelector("li");
     if (songnode) {
       indexMusic = Number(songnode.dataset.index);
-
       loadMusic(indexMusic);
       musicPlayed();
     }
@@ -63,7 +62,16 @@ function loadMusic(indexNumber) {
 function musicPlayed() {
   wrapper.classList.add("paused");
   playPausebtn.querySelector("span").innerText = "pause";
-  musicAudio.play();
+  let playPromise = musicAudio.play();
+  if (playPromise !== undefined) {
+    playPromise
+      .then((_) => {
+        musicAudio.play();
+      })
+      .catch((error) => {
+        console.log(error);
+      });
+  }
 }
 // pause music
 function musicPaused() {

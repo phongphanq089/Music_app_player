@@ -157,4 +157,126 @@ const allMusic = [
     music:
       "./music/FILE_20220802_084631_Biển tình • Mộng chiều xuân • Ai cho em mùa xuân • Mai Bích Trân - cover (lyrics).m4a.mp3",
   },
+
+  // list nhac update
+  {
+    name: "Ai khổ vì ai",
+    Artist: "Đạt long vinh",
+    img: "./image/lofi19.jpg",
+    music:
+      "./music/y2mate.com - Ai Khổ Vì Ai Lofi Ver Đạt Long Vinh Em biết chăng em anh khổ vì ai anh khóc vì ai_1080p (convert.io).mp3",
+  },
+  {
+    name: "Bội Bạc",
+    Artist: "Đạt long vinh",
+    img: "./image/lofi4.jpg",
+    music:
+      "music/y2mate.com - Bội Bạc Lofi Ver x Bolero Lofi Đạt Long Vinh Nhiều đêm khắc khoải niềm ưu tư chợt đến_v720P (convert.io).mp3",
+  },
+  {
+    name: "Bông cỏ mây",
+    Artist: "Đạt long vinh",
+    img: "./image/lofi5.jpg ",
+    music:
+      "./music/y2mate.com - Bông Cỏ May Lofi Ver x Bolero Lofi Đạt Long Vinh Tóc mây thơm mùi cỏ đưa anh thoát xa dần_1080p.mp3",
+  },
+  {
+    name: "Cánh hồng phai",
+    Artist: "Đạt long Vinh",
+    img: "./image/lofi6.jpg",
+    music:
+      "./music/y2mate.com - Cánh Hồng Phai Lofi Ver Đạt Long Vinh x Bolero Lofi Nàng như một đóa hồng phai_v720P.mp3",
+  },
+  {
+    name: "Chàng trai si tình",
+    Artist: "Đạt long vinh",
+    img: "./image/lofi7.jpg",
+    music:
+      "./music/y2mate.com - Con Đường Xưa Em Đi Lofi Ver Đạt Long Vinh x Bolero Lofi Em ơi nhìn gió lên khơi_v720P.mp3",
+  },
+  {
+    name: "Con đường xưa em đi ",
+    Artist: "Đạt long vinh",
+    img: " ./image/lofi8.jpg",
+    music:
+      "./music/y2mate.com - Con Đường Xưa Em Đi Lofi Ver Đạt Long Vinh x Bolero Lofi Em ơi nhìn gió lên khơi_v720P.mp3",
+  },
+  {
+    name: "Em đi trên cỏ non",
+    Artist: "Đạt long vinh",
+    img: "./image/lofi9.jpg",
+    music:
+      "./music/y2mate.com - Em Đi Trên Cỏ Non Lofi Ver Đạt Long Vinh Em chưa đi trên cỏ non chưa từng nghe_v720P.mp3",
+  },
+  {
+    name: "Em gái miền tây",
+    Artist: "Đạt Long Vinh",
+    img: "./image/lofi10.jpg ",
+    music:
+      "./music/y2mate.com - Em Gái Miền Tây Lofi Ver Đạt Long Vinh Thuyền tình quay về bến sông mong người em ru mấy câu hò_v720P.mp3",
+  },
+  {
+    name: "giã từ",
+    Artist: "Đạt long Vinh",
+    img: "./image/lofi11.jpg ",
+    music:
+      "./music/y2mate.com - Giã Từ Lofi Ver Đạt Long Vinh Người về lên xe hoa kỷ niệm buồn vào hồn_v720P.mp3",
+  },
+
+  {
+    name: "Lâu đài tình ái",
+    Artist: "Đạt Long Vinh",
+    img: "./image/lofi12.jpg",
+    music:
+      "./music/y2mate.com - Lâu Đài Tình Ái Lofi Ver x Bolero Lofi Đạt Long Vinh Anh sẽ vì em làm thơ tình ái_1080p.mp3",
+  },
+  {
+    name: "imagine",
+    Artist: "john Lennon",
+    img: "./image/lofi13.jpg",
+    music:
+      "./music/y2mate.com - Phải Lòng Con Gái Bến Tre Lofi Ver Đạt Long Vinh Bậu sang phà Rạch Miễu qua lẽo đẽo theo sau_v720P.mp3",
+  },
+  {
+    name: "Nhac lofi chill (1)",
+    Artist: "LofiChill",
+    img: "./image/lofi14.jpg",
+    music:
+      "./music/y2mate.com - Nhạc Lofi Tiếng Anh Chill Nhẹ Nhàng Giúp Bạn Thư Giãn Học Bài List Nhạc Lofi Chill Hay Nhất_v720P.mp3",
+  },
+
+  {
+    name: "Nhac lofi chill (2)",
+    Artist: "LofiChill",
+    img: "./image/lofi15.jpg",
+    music:
+      "./music/y2mate.com - Nhạc Lofi Tiếng Anh Chill Nhẹ Nhàng Giúp Bạn Thư Giãn Học Bài List Nhạc Lofi Chill Hay Nhất_v720P.mp4 - Copy.mp3",
+  },
+  {
+    name: "Lofi old song remix_1980",
+    Artist: "Lofichil",
+    img: "./image/lofi16.jpg",
+    music: "./music/y2mate.com - old songs but its lofi remix_480p.mp3",
+  },
+  {
+    name: "Hayd Head in the clouds",
+    Artist: "child_múic",
+    img: "./image/lofi18.jpg",
+    music:
+      "./music/y2mate.com - Hayd Head In The Clouds Official Video_v720P.mp3",
+  },
+  {
+    name: "until i found you",
+    Artist: "Stephen Sanchez Em Beihold",
+    img: "./image/lofi17.jpg",
+    music:
+      "./music/y2mate.com - Stephen Sanchez Em Beihold Heaven when I held you again Until I Found You Lyrics_720pFHR.mp3",
+  },
+  {
+    name: "Lofi hiphop child",
+    Artist: "Lofi",
+    img: "./image/lofi20.jpg",
+    music:
+      "./music/y2mate.com - Lofi Hip Hop Chillhop Music Mix  GEMN Chill Lo fi Hip Hop Beats FREE 2021.mp3",
+  },
 ];
